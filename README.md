@@ -29,7 +29,10 @@
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=3madhani&theme=radical)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=3madhani&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 ---
 
