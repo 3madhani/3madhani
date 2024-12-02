@@ -24,7 +24,7 @@
 
 ---
 
-### 🔥 GitHub Streak  
+# 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=3madhani&theme=radical" alt="GitHub Streak" />
