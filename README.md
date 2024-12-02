@@ -31,8 +31,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=3madhani&theme=radical)
 
-
-
 ---
 
 ### 🌐 GitHub Activity Graph  
