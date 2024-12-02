@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emad Hany Shawky (@3madhani)
 
-- 👀 I’m interested in Flutter development, mobile app development, and Clean Architecture.
+- 👀 I’m interested in Flutter development, mobile app development, MVVM, BLOC and Clean Architecture.
 - 🌱 I’m currently learning advanced Flutter state management techniques and backend integration.
 - 💞️ I’m looking to collaborate on open-source projects related to mobile app development.
 - 📫 How to reach me: 
