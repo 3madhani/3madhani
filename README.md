@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7c7469f5-8b6b-4b45-9dda-8f06c5536761)# 👋 Hi, I’m Emad Hany Shawky (@3madhani)
+# 👋 Hi, I’m Emad Hany Shawky (@3madhani)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&lines=Flutter+Developer;Mobile+App+Developer;Clean+Architecture+Enthusiast;Tech+Explorer;Open+Source+Contributor" alt="Typing Animation" />
@@ -29,6 +29,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=3madhani&theme=radical" alt="GitHub Streak" />
 </div>
+
 
 ---
 
