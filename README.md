@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Emad Hany Shawky (@3madhani)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&lines=Flutter+Developer;Mobile+App+Enthusiast;MVVM+and+BLoC+Advocate" alt="Typing Animation" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&lines=Flutter+Developer;
+  Mobile+App+Enthusiast;MVVM+and+BLoC+Advocate" alt="Typing Animation" />
 
 ---
 
