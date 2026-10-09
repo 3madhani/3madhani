@@ -1,58 +1,58 @@
-# 👋 Hi, I’m Emad Hany Shawky (@3madhani)
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Clean+Architecture+Enthusiast;Tech+Explorer" alt="Typing Animation" />
-</div>
 
+# Emad Hany Shawky
 
----
+### Flutter Developer · Mobile App Developer
 
+Building thoughtful mobile experiences with Flutter, clean architecture, and modern state management.
 
-- 👀 I’m interested in **Flutter development**, **mobile app development**, **MVVM**, **BLoC**, and **Clean Architecture**.
-- 🌱 I’m currently learning **advanced Flutter state management** techniques and **backend integration**.
-- 💞️ I’m looking to collaborate on **open-source projects** related to mobile app development.
-- 📫 **How to reach me**:  
-  - Email: [emadhany975@gmail.com](mailto:emadhany975@gmail.com)  
-  - LinkedIn: [Emad Hany](https://www.linkedin.com/in/3mad-hany)
+[![Email](https://img.shields.io/badge/Email-emadhany975%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emadhany975@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emad%20Hany-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3mad-hany)
+[![GitHub](https://img.shields.io/badge/GitHub-%403madhani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/3madhani)
 
----
-
-### 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3madhani&show_icons=true&theme=radical" alt="3madhani's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madhani&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## About Me
+
+- I’m interested in Flutter and cross-platform mobile app development.
+- I enjoy exploring MVVM, BLoC, and clean architecture.
+- I’m currently learning advanced Flutter state management and backend integration.
+- I’m open to collaborating on open-source mobile development projects.
+- I like experimenting with new technologies and solving challenging problems.
+
+## Tech Interests
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=3madhani&theme=radical" alt="GitHub Streak" />
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=bloc&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge)
+
 </div>
 
-
----
-
-### 🌐 GitHub Activity Graph  
+## GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3madhani&theme=dracula&bg_color=20232a&color=61dafb&line=61dafb&point=f13d3d" alt="GitHub Activity Graph" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=3madhani&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics for Emad Hany Shawky" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madhani&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=3madhani&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
 </div>
 
 ---
 
-### 😄 Pronouns  
-He/Him
+<div align="center">
 
-### ⚡ Fun Fact  
-I enjoy experimenting with **new technologies** and solving **challenging coding problems**! 🚀
+**Pronouns:** He/Him  
+**Contact:** [Email](mailto:emadhany975@gmail.com) · [LinkedIn](https://www.linkedin.com/in/3mad-hany)
 
----
-
-<!---
-3madhani/3madhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
